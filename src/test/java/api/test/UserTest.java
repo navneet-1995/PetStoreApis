@@ -19,6 +19,8 @@ public class UserTest {
 	Faker faker;
 	UserEndPoint userendpoint;
 	
+	//To test git update
+	
 	@BeforeClass
 	public void setup() {
 		
